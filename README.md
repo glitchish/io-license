@@ -1,2 +1,23 @@
-# io-license
-a license, i guess, but you really shouldn't take it TOO seriously
+###### If you want to use this license in your projects, then copy everything in the source
+
+
+<!-- THE OFFICIAL IO LICENSE CREATED BY THEIOCODER (https://github.com/theiocoder/io-license), USING FOR <your-name.your-project> -->
+---
+THIS LICENSE COVERS THE USE OF THIS "SOFTWARE".
+
+"SOFTWARE" AS IN, ANYTHING THAT IS UNDER THIS LICENSE OR WITHIN THE "SOURCE".
+"SOURCE" AS IN, FILES; IMAGES, TEXT, VIDEOS, ANY TYPE OF EXECUTABLE, ETC THAT IS WITHIN THE `Code`.
+
+---
+THIS LICENSE HAS EXCEPTIONS FOR:
+<Get rid of this if there are no exceptions>
+<project-exceptions>
+<project-exceptions>
+
+---
+THIS LICENSE (IO LICENSE) WILL NO LONGER BE IN USE IF THIS "PROJECT" IS ARCHIVED, DELETED, OR IF THIS LICENSE IS MODIFIED (THAT IS, UNLESS THIS LICENSE IS REPLACED BY
+ANOTHER ONE, THEN THE NEW LICENSE IS IN USE, NOT THIS SPECIFIC ONE).
+
+"PROJECT" AS IN, THE "SOFTWARE" AND "SOURCE".
+
+---
